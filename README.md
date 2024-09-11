@@ -1,6 +1,6 @@
 # Gestion_de_automoviles
 
-Este es un programa en PHP que, en conjunto con XAMPP, realiza operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en una base de datos MySQL para la gestión de automóviles.
+Este es un sistema desarrollado en PHP que, en combinación con XAMPP, permite realizar operaciones CRUD (Alta, Consulta, Modificación y Eliminación) en una base de datos MySQL orientado a la administración de automóviles.
 
 ## Instrucciones de configuración
 
