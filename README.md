@@ -59,6 +59,9 @@ El proyecto incluye las siguientes funciones CRUD:
 
 El código maneja el retorno al menú principal después de una respuesta utilizando un fragmento específico de código (detalles no proporcionados en el texto original).
 
+
+![codigo](https://github.com/user-attachments/assets/70c8a945-683a-43ea-8e29-8a49b4fbf4c5)
+
 ¡Esperamos que disfrutes usando este sistema de gestión de automóviles! ☕
 
 ## Acerca de
@@ -67,27 +70,5 @@ Programa completamente escrito en PHP que, en conjunto con XAMPP, se encarga de 
 
 ![base de datos](https://github.com/user-attachments/assets/581e6fe6-3c98-460c-a3f8-6504722ecfdf)
 
-
-## Recursos
-
-- Readme
-
-## Licencia
-
-Licencia Unlicense
-
-## Actividad
-
-- Estrellas: 0 estrellas
-- Observadores: 1 observando
-- Bifurcaciones: 0 bifurcaciones
-
-## Lanzamientos
-
-No se han publicado lanzamientos
-
-## Paquetes
-
-No se han publicado paquetes
 
 
